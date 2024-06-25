@@ -1,0 +1,1 @@
+# Seperate documentation for the Bot
