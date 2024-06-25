@@ -13,4 +13,4 @@ First script **test.py** is for Opera browser setup (since Opera is not supporte
 
 To check the version and the location of your browser, you can type in the search bar "opera://version" .
 You will use both the browser and the web-driver paths in your scripts .
-[operaversion](./artifacts/operaversion.png)
+![operaversion](./artifacts/operaversion.png)
