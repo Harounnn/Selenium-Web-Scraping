@@ -8,3 +8,4 @@
 │   │   ├── constants.py
 │   ├── main.py
 ```
+![bot](../artifacts/bot.png)
